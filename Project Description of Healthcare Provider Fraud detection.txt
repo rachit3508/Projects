@@ -1,0 +1,31 @@
+Project Description:
+
+Let's Understand How Insurance company works:
+
+There are Mainly 3 things : 
+1. Payer(Insurance Company)
+2. Providers(Doctors,Physicians,Surgeons etc.)
+3. Beneficiary (Patient who takes the insurance Policy)
+
+Steps in Which they work:
+1. Patient Enrolled himself in insurance policy according to his requirement.
+2. An Insurance policy contains all the details Regarding the Services he will be receiving,what is the plan etc.
+3. Suppose Member fell ill and he goes to Provider and Provider gave him services like lab tests,surgeries,x-rays etc.
+4. After that member will go home and Than Provider Raise a claim which includes all the procedures and dianosis happened
+   for that patient.
+5. Payer will Receive that claim and they will cross-verify that particular provider,member are enrolled or not.
+6. After confirmation they Reimburse the amount to the Provider.
+
+How Frauds are Happening in raising Claims:
+1. Raising Claims for the services which are not provided.
+2. Duplicate submission of claims that are already happened.
+3. Adding services in the claim which are actually not provided.
+4. Giving services which are of higher cost when they are actually not required.
+
+
+Primary Goal of this Project:
+To create a model for the Insurance companies which can predict whether a particular claim can be fraudulent or not
+Being proactive they will be able to handle these frauds and are able to prevent themselves from huge loss.
+
+
+Thank you!
